@@ -13,8 +13,6 @@ Análise de teste
 
 Engenharia de dados
 
-Bootcamp XP Inc. - Full Stack Developer
-
 NoSQL
 
 ### 📫 Vamos nos conectar! 
