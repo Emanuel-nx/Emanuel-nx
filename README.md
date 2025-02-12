@@ -9,11 +9,20 @@ Adquiri experiência em metodologias ágeis, SQL intermediário, Metabase, Datad
 
 
 ## 🌱 Atualmente estou aprendendo
-Análise de teste
+Engenharia de dados:
+  - SQL para Análise de Dados;
+  - Power BI;
+  - Análise de Regressão em Python;
+  - Extração e Tratamento de Dados em Python;
+  - Cloud
 
-Engenharia de dados
+NoSQL:
+  - MongoDB;
 
-NoSQL
+Programação:
+  - Logica de programação;
+  - JavaScript;
+  - Python;
 
 ### 📫 Vamos nos conectar! 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emanuelnogueira-engdados/)](https://www.linkedin.com/in/emanuelnogueira-engdados/)
