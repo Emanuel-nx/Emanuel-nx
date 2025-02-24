@@ -1,7 +1,7 @@
 ## Sejam bem-vindos!👋
 
 Emanuel Nogueira é Analista de suporte Pleno, possui mais de 10 anos de experiência em suporte e atendimento ao cliente, consultas SQL, praticas ITIL, agilidade, gerenciamento de incidentes e problemas. É formado em Sistemas de Informação - FATEPI, Pós graduado em Engenharia de Software - ESTACIO e pós graduado em Administração de Base de Dados - UNOPAR.
-Durante os 2 últimos anos desenvolveu experiencia em ramos de Fintech, e meios de pagamentos.
+Estudante do curso de Engenharia de Dados na DNC, com previsão de termino em Julho de 2025
 
 
 ## 🔭 Última experiência de trabalho 
