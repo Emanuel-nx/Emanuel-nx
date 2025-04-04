@@ -68,4 +68,10 @@
   </a>
 </div>
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Emanuel-nx/Emanuel-nx/output/snake.svg" alt="Snake animation" />
+
+###
+
 
